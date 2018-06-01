@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Hi Danny!
     public class e1a {
 
     public static void main(String[] args) {
